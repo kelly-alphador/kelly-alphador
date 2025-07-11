@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je suis kelly alphador</h1>
 <h3 align="center">Développeur backend passionné, spécialisé en .NET Core. J’aime créer des API performantes, évolutives et faciles à maintenir.</h3>
 
-- 🔭 Je travaille actuellement sur ArtistoSocial ArtistoSocial un projet personnel en cours de développement visant à créer une plateforme sociale innovante.
+- 🔭 Je travaille actuellement sur  ArtistoSocial un projet personnel en cours de développement visant à créer une plateforme sociale innovante.
 
 - 🌱 Je suis en train de me former sur **XUnit et Azure DevOps pour améliorer la qualité de mes tests et optimiser mes processus de développement.**
 
