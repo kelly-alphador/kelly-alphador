@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kelly-alphador
+# 👋 Hi, I’m kelly-alphador
 
 - 👀 I’m interested in **backend development**, especially with **.NET technologies**
 - 🌱 I’m currently learning **ASP.NET Core**, **Vue.js**, and **XUnit** for unit testing
