@@ -38,13 +38,11 @@
       <h3 style="color: #0e75b6;">🎯 Objectifs actuels</h3>
       <p><strong>🔭 Je prépare actuellement :</strong> Mon écosystème de développement fullstack, des projets perso pour mon portfolio</p>
       <p><strong>🌱 Je me forme sur :</strong> XUnit et Azure DevOps pour améliorer la qualité de mes tests et optimiser mes processus de développement.</p>
-    </div>
-    
-    <div style="flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
       <h3 style="color: #0e75b6;">🤝 Collaboration & Aide</h3>
       <p><strong>👯 Je cherche à collaborer sur :</strong> Projets .NET/Vue.js</p>
       <p><strong>🤝 Je cherche de l'aide pour :</strong> Mettre en place un testing strategy solide, Améliorer mes compétences DevOps</p>
     </div>
+    
   </div>
   
   <div style="margin-top: 25px; text-align: center;">
@@ -147,9 +145,7 @@
          alt="Statistiques GitHub" 
          width="48%" />
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelly-alphador&layout=compact&theme=radical&locale=fr&hide_border=true&bg_color=30,2c3e50,0e75b6&title_color=fff&text_color=fff" 
-         alt="Langages les plus utilisés" 
-         width="48%" />
+  
   </div>
   
   <div align="center">
