@@ -1,36 +1,160 @@
-<h1 align="center">Salut 👋, je suis ANDRIAMAMPINDRY kelly alphador</h1>
-<h3 align="center">Fullstack Developer .NET Vue.js</h3>
+<!-- BANNIÈRE EN HAUT -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kelly-alphador/kelly-alphador/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner%20(1).png" 
+       width="100%" 
+       style="border-radius: 10px; margin-bottom: 20px;"
+       alt="Bannière technologique">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kelly-alphador&label=Profile%20views&color=0e75b6&style=flat" alt="kelly-alphador" /> </p>
+<!-- HEADER AVEC TITRE ET GIF -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="70%">
+        <h1 style="font-size: 2.5em; margin-bottom: 10px;">Salut 👋, je suis ANDRIAMAMPINDRY kelly alphador</h1>
+        <h2 style="color: #0e75b6; margin-top: 0;">🚀 Fullstack Developer .NET Vue.js</h2>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" 
+             width="180" 
+             style="border-radius: 15px; border: 4px solid #0e75b6; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"
+             alt="Animation développement">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelly-alphador" alt="kelly-alphador" /></a> </p>
+<!-- COMPTEURS -->
+<div align="center" style="margin: 25px 0;">
+  <img src="https://komarev.com/ghpvc/?username=kelly-alphador&label=👁️%20Vues%20du%20profil&color=0e75b6&style=for-the-badge" alt="kelly-alphador" />
+</div>
 
-- 🔭 Je prépare actuellement : **Mon écosystème de développement fullstack , des projets perso pour mon portfolio**
+<!-- SECTION À PROPOS -->
+<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 15px; margin: 30px 0; border-left: 5px solid #0e75b6;">
+  <h2 align="center" style="color: #2c3e50; margin-top: 0;">📋 À PROPOS DE MOI</h2>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <div style="flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
+      <h3 style="color: #0e75b6;">🎯 Objectifs actuels</h3>
+      <p><strong>🔭 Je prépare actuellement :</strong> Mon écosystème de développement fullstack, des projets perso pour mon portfolio</p>
+      <p><strong>🌱 Je me forme sur :</strong> XUnit et Azure DevOps pour améliorer la qualité de mes tests et optimiser mes processus de développement.</p>
+    </div>
+    
+    <div style="flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
+      <h3 style="color: #0e75b6;">🤝 Collaboration & Aide</h3>
+      <p><strong>👯 Je cherche à collaborer sur :</strong> Projets .NET/Vue.js</p>
+      <p><strong>🤝 Je cherche de l'aide pour :</strong> Mettre en place un testing strategy solide, Améliorer mes compétences DevOps</p>
+    </div>
+  </div>
+  
+  <div style="margin-top: 25px; text-align: center;">
+    <p><strong>💬 Demandez-moi à propos de :</strong> ASP.NET MVC | .NET Web API | WPF | Windows Forms | Vue.js</p>
+    <p><strong>📫 Contact :</strong> kellyalphador@gmail.com</p>
+    <p><strong>⚡ Fun fact :</strong> Au lieu d'avoir des problèmes avec les filles, je préfère avoir des problèmes... d'algorithmes ! 😄</p>
+    <p><strong>🌐 Portfolio :</strong> <a href="https://kelly-alphador.vercel.app" target="_blank">kelly-alphador.vercel.app</a></p>
+  </div>
+</div>
 
-- 🌱 Je suis en train de me former sur **XUnit et Azure DevOps pour améliorer la qualité de mes tests et optimiser mes processus de développement.**
+<!-- TECHNOLOGIES ET OUTILS -->
+<div style="margin: 40px 0;">
+  <h2 align="center" style="color: #2c3e50; margin-bottom: 25px;">🛠️ TECHNOLOGIES & OUTILS</h2>
+  
+  <div align="center" style="margin-bottom: 30px;">
+    <h3 style="color: #0e75b6; margin-bottom: 15px;">💻 Langages & Frameworks</h3>
+    <p>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    </p>
+  </div>
+  
+  <div align="center" style="margin-bottom: 30px;">
+    <h3 style="color: #0e75b6; margin-bottom: 15px;">🗄️ Bases de données</h3>
+    <p>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    </p>
+  </div>
+  
+  <div align="center" style="margin-bottom: 30px;">
+    <h3 style="color: #0e75b6; margin-bottom: 15px;">⚡ Outils & DevOps</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js">
+      <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify">
+    </p>
+  </div>
+</div>
 
-- 👯 Je cherche à collaborer **sur des projets .NET/Vue.js**
+<!-- RETROUVEZ-MOI EN LIGNE -->
+<div style="background: linear-gradient(135deg, #0e75b6 0%, #2c3e50 100%); padding: 30px; border-radius: 15px; margin: 30px 0;">
+  <h2 align="center" style="color: white; margin-top: 0;">🌐 RETROUVEZ-MOI EN LIGNE</h2>
+  
+  <div align="center">
+    <a href="https://linkedin.com/in/kelly alphador" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+    </a>
+    <a href="https://github.com/kelly-alphador" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
+    </a>
+    <a href="mailto:kellyalphador@gmail.com" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
+    </a>
+    <a href="https://kelly-alphador.vercel.app" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40">
+    </a>
+  </div>
+  
+  <div align="center" style="margin-top: 25px;">
+    <a href="https://linkedin.com/in/kelly alphador" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+           alt="LinkedIn" 
+           width="40" 
+           height="40"
+           style="background: white; padding: 8px; border-radius: 50%; margin: 0 10px;">
+    </a>
+  </div>
+</div>
 
-- 🤝 Je cherche de l’aide pour **Mettre en place un testing strategy solide , Améliorer mes compétences DevOps**
+<!-- CONTACT -->
+<div style="background: #f8f9fa; padding: 30px; border-radius: 15px; margin: 30px 0; text-align: center; border: 2px dashed #0e75b6;">
+  <h2 style="color: #2c3e50; margin-top: 0;">📞 CONTACT</h2>
+  <p style="font-size: 1.2em; margin-bottom: 20px;">Discutons de vos projets .NET/Vue.js !</p>
+  
+  <div style="display: inline-block; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <p><strong>📧 Email :</strong> kellyalphador@gmail.com</p>
+    <p><strong>💼 LinkedIn :</strong> <a href="https://linkedin.com/in/kelly alphador" target="_blank">linkedin.com/in/kelly alphador</a></p>
+    <p><strong>👨‍💻 GitHub :</strong> <a href="https://github.com/kelly-alphador" target="_blank">github.com/kelly-alphador</a></p>
+    <p><strong>🌐 Portfolio :</strong> <a href="https://kelly-alphador.vercel.app" target="_blank">kelly-alphador.vercel.app</a></p>
+  </div>
+</div>
 
-- le lien de mon portfolio [kelly-alphador.vercel.app](kelly-alphador.vercel.app)
-
-- 💬 Demandez-moi à propos de **ASP.NET MVC | .NET Web API | WPF | Windows Forms | Vue.js**
-
-- 📫 Comment me contacter **kellyalphador@gmail.com**
-
-- ⚡ Petit fait amusant **au lieu d’avoir des problèmes avec les filles, je préfère avoir des problèmes… d’algorithmes ! 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kelly alphador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelly alphador" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelly-alphador&show_icons=true&locale=en&layout=compact" alt="kelly-alphador" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelly-alphador&show_icons=true&locale=en" alt="kelly-alphador" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelly-alphador&" alt="kelly-alphador" /></p>
+<!-- STATISTIQUES GITHUB -->
+<div style="margin: 40px 0;">
+  <h2 align="center" style="color: #2c3e50; margin-bottom: 25px;">📊 STATISTIQUES GITHUB</h2>
+  
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kelly-alphador&show_icons=true&theme=radical&locale=fr&hide_border=true&bg_color=30,0e75b6,2c3e50&title_color=fff&text_color=fff&icon_color=ffdd00" 
+         alt="Statistiques GitHub" 
+         width="48%" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelly-alphador&layout=compact&theme=radical&locale=fr&hide_border=true&bg_color=30,2c3e50,0e75b6&title_color=fff&text_color=fff" 
+         alt="Langages les plus utilisés" 
+         width="48%" />
+  </div>
+  
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelly-alphador&theme=radical&hide_border=true&background=linear-gradient(135deg, #0e75b6 0%, #2c3e50 100%)&dates=fff&ring=ffdd00&fire=ffdd00&currStreakLabel=fff" 
+         alt="Série de contributions" 
+         width="100%" />
+  </div>
+</div>
