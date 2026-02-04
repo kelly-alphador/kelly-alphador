@@ -112,15 +112,7 @@
     </a>
   </div>
   
-  <div align="center" style="margin-top: 25px;">
-    <a href="https://linkedin.com/in/kelly alphador" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-           alt="LinkedIn" 
-           width="40" 
-           height="40"
-           style="background: white; padding: 8px; border-radius: 50%; margin: 0 10px;">
-    </a>
-  </div>
+
 </div>
 
 <!-- CONTACT -->
@@ -137,20 +129,5 @@
 </div>
 
 <!-- STATISTIQUES GITHUB -->
-<div style="margin: 40px 0;">
-  <h2 align="center" style="color: #2c3e50; margin-bottom: 25px;">📊 STATISTIQUES GITHUB</h2>
-  
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kelly-alphador&show_icons=true&theme=radical&locale=fr&hide_border=true&bg_color=30,0e75b6,2c3e50&title_color=fff&text_color=fff&icon_color=ffdd00" 
-         alt="Statistiques GitHub" 
-         width="48%" />
-    
-  
-  </div>
-  
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelly-alphador&theme=radical&hide_border=true&background=linear-gradient(135deg, #0e75b6 0%, #2c3e50 100%)&dates=fff&ring=ffdd00&fire=ffdd00&currStreakLabel=fff" 
-         alt="Série de contributions" 
-         width="100%" />
-  </div>
+
 </div>
